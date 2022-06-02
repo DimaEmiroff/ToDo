@@ -1,0 +1,89 @@
+.form {
+    margin: 20px;
+    padding: 21px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 36px 2px #adadad;
+    width: 28em;
+    min-height: 200px;
+}
+
+.list {
+    list-style: none;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.form_name,
+.form_find {
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+    margin-bottom: 12px;
+}
+
+.form_btn_del {
+    width: 130px;
+    height: 30px;
+    background: #ff3333;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form_btn_del:hover{
+    background: #801a1a;
+}
+
+.form_btn_add {
+    width: 130px;
+    height: 30px;
+    background: #adadad;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.form_btn_add:hover {
+    background: rgba(133, 133, 133, 0.98);
+}
+
+.form_btn_find {
+    width: 130px;
+    height: 30px;
+    background: #51bef8;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.form_btn_find:hover {
+    background: #3a789f;
+}
+
+.buttonRemove {
+    width: 120px;
+    height: 30px;
+    background: #ff5722;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.buttonRemove:hover{
+    background: #8a3e29;
+}
+
+.buttonEdit {
+    width: 130px;
+    height: 30px;
+    background: #ffc107;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.buttonEdit:hover {
+    background: #efc84d;
+}
+
+.list__li {
+    padding: 10px;
+}
+
+.list__inp {
+    width: 120px;
+    height: 25px;
+    border-radius: 5px;
+}
